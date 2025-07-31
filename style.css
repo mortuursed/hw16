@@ -1,0 +1,16 @@
+.box{
+    width:80%;
+    height: 800px;
+    outline:1px solid red;
+    background-color: green;
+    margin: 0 auto;
+    background-image: url(./img/pole-zelen-trava-dom-derevya.webp), url(./img/lamp-png-34914.png), url(./img/green-png-44873.png), 
+    url(./img/3F3F.webp), url(./img/58eb07b830eab15b56162788.png);
+    background-position: center, top, bottom, right, left ;
+    background-size: 500px 500px, 100px 100px, 300px 300px, 100px 100px, 100px 100px ;
+    background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y ;
+    /* background-image: url(./img/green-png-44873.png), url(./img/lamp-png-34914.png),;
+    background-position: bottom, top;
+    background-size: 200px 200px, 100px 100px;
+    background-repeat: repeat-x, repeat-x; */
+}
